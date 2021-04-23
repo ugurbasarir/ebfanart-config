@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "level": 1,
+      "value": {
+        "tr": {
+          "answer": "MONA LISA",
+          "description": "-Leonardo da Vinci'nin en popüler eseri.",
+          "kb": "en"
+        },
+        "de": {
+          "answer": "MONA LISA",
+          "description": "-Ein weltberühmtes Ölgemälde von Leonardo da Vinci.",
+          "kb": "de"
+        },
+        "en": {
+          "answer": "MONA LISA",
+          "description": "-is a half-length portrait painting by Italian artist Leonardo da Vinci.",
+          "kb": "en"
+        },
+        "es": {
+          "answer": "MONA LISA",
+          "description": "-Es una obra pictórica de Leonardo da Vinci.",
+          "kb": "es"
+        },
+        "fr": {
+          "answer": "LA JOCONDE",
+          "description": "-Est un tableau de l'artiste Léonard de Vinci.",
+          "kb": "fr"
+        },
+        "it": {
+          "answer": "MONNA%LISA",
+          "description": "-è un dipinto a olio su tavola da Leonardo da Vinci.",
+          "kb": "en"
+        },
+        "ru": {
+          "answer": "МОНА ЛИЗА",
+          "description": "-Картина Леонардо да Винчи, одно из самых известных произведений живописи.",
+          "kb": "ru"
+        }
+      }
+    }
+  ]
+}
