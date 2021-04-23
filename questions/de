@@ -1,0 +1,538 @@
+{
+  "items": [
+    {
+      "level": 1,
+      "answer": "MONA LISA",
+      "description": "-Ein weltberühmtes Ölgemälde von Leonardo da Vinci.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "TELEFON",
+      "description": "-Erfindung von Alexander Graham Bell.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "ROBINSON%CRUSOE",
+      "description": "-Ein Roman von Daniel Defoe.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "NOTHING%ELSE MATTERS",
+      "description": "-Ein von geschaffenes Lied der US-amerikanischen Metal-Band Metallica.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DER PATE",
+      "description": "-Ein US-amerikanischer Mafia Film aus von Francis Ford Coppola.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "STERNENNACHT",
+      "description": "-ist eines der bekanntesten Gemälde des niederländischen Künstlers Vincent van Gogh.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "GAME OF%THRONES",
+      "description": "-ist eine US-amerikanische Fantasy-Fernsehserie von David Benioff und D. B. Weiss.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "ELEKTRISCHES%LICHT",
+      "description": "-Erfindung von Thomas Edison.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "BEAT IT",
+      "description": "-ist eine Hit-Single von Michael Jackson.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TOM UND%JERRY",
+      "description": "-ist eine US-amerikanische Serie von 161 kurzen Zeichentrickfilmen.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "THE DARK%KNIGHT",
+      "description": "-Eine Comicverfilmung des Regisseurs Christopher Nolan.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "AUTO",
+      "description": "-Erfindung von Karl Benz.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "BALLETT",
+      "description": "-Eine Art Tanz.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "HAMLET",
+      "description": "-ist eine Tragödie von William Shakespeare.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "TAJ MAHAL",
+      "description": "-Eines der neuen sieben Weltwunder.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "KOLOSSEUM",
+      "description": "-Eines der neuen sieben Weltwunder.",
+      "kb": "de"
+    },
+
+    {
+      "level": 1,
+      "answer": "ROMEO%UND%JULIA",
+      "description": "-ist eine Tragödie von William Shakespeare.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "WIND OF%CHANGE",
+      "description": "-Ein Lied von Scorpions.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DAVID",
+      "description": "-ist die gilt als die bekannteste Skulptur der Kunstgeschichte.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "DER%KLEINE%PRINZ",
+      "description": "-ist ein erzählung des französischen Autors Antoine de Saint-Exupéry.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "FELSENSTADT%PETRA",
+      "description": "-Eines der neuen sieben Weltwunder.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "HEIDI",
+      "description": "-Die beiden Kinderbücher der Schweizer Autorin Johanna Spyri.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "EIFFELTURM",
+      "description": "-Ein 324 Meter hoher Eisenfachwerkturm in Paris.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "THRILLER",
+      "description": "-Das meistverkaufte Album aller Zeiten von Michael Jackson.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TETRIS",
+      "description": "-Das meistverkaufte Videospiel der Welt.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "AVATAR",
+      "description": "-ist ein US-amerikanischer Science-Fiction-Film des Regisseurs James Cameron.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "FINDET NEMO",
+      "description": "-ist ein US-amerikanischer Animationsfilm der Pixar Animation Studios.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "FUSSBALL",
+      "description": "-Der beliebteste Sport der Welt.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "DON QUIJOTE",
+      "description": "-ist die allgemeinsprachliche Bezeichnung für den spanischsprachigen Roman von Miguel de Cervantes.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "SALSA",
+      "description": "-Eine Art Tanz.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "ROCKMUSIK",
+      "description": "-Eine Art Musik.",
+      "kb": "de"
+    },
+    {
+      "level": 1,
+      "answer": "POPMUSIK",
+      "description": "-Eine Art Musik.",
+      "kb": "de"
+    },
+
+    {
+      "level": 2,
+      "answer": "FREIHEITSSTATUE",
+      "description": "-ist eine von Frédéric-Auguste Bartholdi geschaffene neoklassizistische Kolossalstatue.",
+      "kb": "de"
+    },
+
+    {
+      "level": 2,
+      "answer": "I WILL%ALWAYS%LOVE YOU",
+      "description": "-Ein Lied von Whitney Houston.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "DER DENKER",
+      "description": "-Zählt zu den Hauptwerken des Bildhauers Auguste Rodin.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "DIE%ERSCHAFFUNG%ADAMS",
+      "description": "-ist das zentrale Werk des Deckenfreskos von Michelangelo.",
+      "kb": "de"
+    },
+
+    {
+      "level": 2,
+      "answer": "DIE%VERURTEILTEN",
+      "description": "-ist ein Filmdrama von Regisseur Frank Darabon.",
+      "kb": "de"
+    },
+
+    {
+      "level": 2,
+      "answer": "DER%GROSSE%GATSBY",
+      "description": "-ist ein Roman des US-amerikanischen Autors F. Scott Fitzgerald.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "CARELESS%WHISPER",
+      "description": "-Lied von George Michael.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "DAS%ABENDMAHL",
+      "description": "-ist eines der berühmtesten Wandgemälde der Welt.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "HAGIA%SOPHIA",
+      "description": "-Kultiges Gebäude in Istanbul, entworfen von Isidor von Milet und Anthemius von Tralles.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "GROSSE%SPHINX%VON GIZEH",
+      "description": "-Statue von unbekanntem Künstler in Ägypten gemacht.",
+      "kb": "de"
+    },
+
+    {
+      "level": 2,
+      "answer": "FLUGZEUG",
+      "description": "-Erfindung von Orville und Wilbur Wright.",
+      "kb": "de"
+    },
+
+    {
+      "level": 2,
+      "answer": "FIGHT%CLUB",
+      "description": "-ist ein US-amerikanischer Psychothriller des Regisseurs David Fincher.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "CRISTO%REDENTOR",
+      "description": "-ist eine monumentale Christusstatue.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "DAS MÄDCHEN%MIT DEM%PERLENOHRGEHÄNGE",
+      "description": "-ist das populärste Gemälde Jan Vermeers.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "DER%SCHREI",
+      "description": "-Gemälde des norwegischen Malers Edvard Munch.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "GUERNICA",
+      "description": "-Den bekanntesten Gemälde Pablo Picassos.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "BREAKING%BAD",
+      "description": "-ist eine US-amerikanische Krimi-Drama-Fernsehserie von Vince Gilligan.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "DAVID%COPPERFIELD",
+      "description": "-ist ein roman des englischen Schriftstellers Charles Dickens.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "MACHU%PICCHU",
+      "description": "-Eines der neuen sieben Weltwunder.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "FLAMENCO",
+      "description": "-Eine Art Tanz.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "MODERNER%TANZ",
+      "description": "-Eine Art Tanz.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "PIETA",
+      "description": "-Skulptur von Michelangelo.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "LOLITA",
+      "description": "-ist der bekannteste Roman des Schriftstellers Vladimir Nabokov.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "UND DANN%GABS%KEINES%MEHR",
+      "description": "-Ein Roman von Agatha Christie.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "THE HOBBIT",
+      "description": "-Ein Roman von John R. R. Tolkien.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MANNEKEN%PIS",
+      "description": "-Skulptur von Hieronymus Duquesnoy the Elder.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "EINE%GESCHICHTE%AUS ZWEI%STÄDTEN",
+      "description": "-ist ein historischer Roman von Charles Dickens.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "COMPUTER",
+      "description": "-Erfindung von John Vincent Atanasoff.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "DER%HERR DER%RINGE",
+      "description": "-ist ein Roman von John Ronald Reuel Tolkien.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "ZURÜCK%IN DIE%ZUKUNFT",
+      "description": "-Ein Science-Fiction-Film von Robert Zemeckis.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "LAND%MUSIK",
+      "description": "-Eine Art Musik.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "TRISTRAM%SHANDY",
+      "description": "-ist ein Roman des englischen Schriftstellers Laurence Sterne.",
+      "kb": "de"
+    },
+    {
+      "level": 2,
+      "answer": "ANNA%KARENINA",
+      "description": "-ist ein Roman von Lew Tolstoi.",
+      "kb": "de"
+    },
+
+    {
+      "level": 3,
+      "answer": "DRUCKERPRESSE",
+      "description": "-Erfindung von Johannes Gutenberg.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "DIE%GEBURT%DER VENUS",
+      "description": "-ist ein Gemälde von Sandro Botticelli.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "ANOTHER%BRICK%IN THE WALL",
+      "description": "-Lied von Pink Floyd.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "DIE%NACHTWACHE",
+      "description": "-ist ein Gemälde des niederländischen Malers Rembrandt van Rijn.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "RADIO UND%FERNSEHEN",
+      "description": "-Erfindung von Guglielmo Marconi & John Baird.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "DER%ZAUBERER%VON OZ",
+      "description": "-ist ein Kinderbuch des US-amerikanischen Schriftstellers Lyman Frank Baum.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "CHINESISCHE%MAUER",
+      "description": "-Eines der sieben Weltwunder.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "DIE%ERSCHIESSUNG%DER%AUFSTÄNDISCHEN",
+      "description": "-ist ein Gemälde des spanischen Malers Francisco de Goya.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "SMELLS%LIKE TEEN%SPIRIT",
+      "description": "-Ein Lied der amerikanischen Rockband Nirvana.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "DER GRAF%VON MONTE%CHRISTO",
+      "description": "-ist ein Abenteuerroman von Alexandre Dumas."
+      ,
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "DER%SCHIEFE%TURM VON%PISA",
+      "description": "-ist das wohl bekannteste geneigte Gebäude der Welt und Wahrzeichen der Stadt Pisa.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "SYDNEY%OPERA HOUSE",
+      "description": "-ist eines der berühmten Gebäude des 20. Jahrhunderts und das Wahrzeichen von Sydney.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "VOLKSMUSIK",
+      "description": "-Eine Art Musik.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "TANGO%ARGENTINO",
+      "description": "-Eine Art von Tanz.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "EIN PORTRÄT%DES%KÜNSTLERS ALS%JUNGER%MANN",
+      "description": "-ist der eines autobiografisch Bildungsromans des irischen Schriftstellers James Joyce.",
+      "kb": "de"
+    },
+    {
+      "level": 3,
+      "answer": "DIE BRÜDER%KARAMASOW",
+      "description": "-ist der letzte Roman des russischen Schriftstellers Fjodor M. Dostojewski.",
+      "kb": "de"
+    }
+  ],
+  "ui": {
+    "play": "SPIELEN",
+    "levels": "LEVELS",
+    "shop": "GESCHÄFT",
+    "settings": "EINSTELLUNGEN",
+
+    "level": "LEVEL",
+    "letter": "BRIEF",
+    "eliminate": "ELIMINIEREN",
+    "pass": "PASS",
+
+    "excellent": "AUSGEZEICHNET!!",
+    "good": "GUT!",
+    "bad": "SCHLECHT!",
+
+    "language": "Sprache",
+    "code": "Art des Codes",
+    "reset": "Spiel Zurücksetzen",
+    "restore": "Einkäufe wiederherstellen",
+    "rate": "Bewerten Sie uns",
+    "contact": "Kontaktiere uns",
+    "privacy": "Datenschutz-Bestimmungen",
+
+    "resetHeader": "Bestätigen Sie das Zurücksetzen der Daten",
+    "resetText": "Möchten Sie wirklich alle Daten zurücksetzen?",
+    "yes": "JA",
+    "no": "NEIN",
+
+
+    "like": "Gefällt dir CryptoArt?",
+    "likeText": "Vielleicht möchten Sie unsere App mit 5 Sternen bewerten und uns glücklich machen :)",
+
+    "exit": "Beenden Sie das Beenden",
+    "exitText": "Sie sind sicher, dass Sie beenden wollen?"
+
+
+  }
+}
