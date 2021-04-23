@@ -1,0 +1,537 @@
+{
+  "items": [
+    {
+      "level": 1,
+      "answer": "MONA LISA",
+      "description": "-Leonardo da Vinci'nin en popüler eseri.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TELEFON",
+      "description": "-Alexander Graham Bell tarafından yapılmış icat.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "ROBINSON%CRUSOE",
+      "description": "-Daniel Defoe tarafından yazılmış roman.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "NOTHING%ELSE%MATTERS",
+      "description": "-Rock grubu Metallica'nın söylediği bir şarkı.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "BABA",
+      "description": "-Yönetmenliğini Francis Ford Coppola'nın yaptığı Amerikan suç temalı film. ",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "YILDIZLI%GECE",
+      "description": "-Vincent Van Gogh resmettiği kanvas boyama tablo.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "TAHT%OYUNLARI",
+      "description": "-David Benioff ve Daniel Brett Weiss yönetmenliğini yaptığı amerikan dizisi,kitap serisi bulunmaktadır.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "ELEKTRİK%AMPULÜ",
+      "description": "-Thomas Edison tarafından yapılmış bir icat.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "BEAT IT",
+      "description": "-Michael Jackson'ın bir şarkısı.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TOM VE%JERRY",
+      "description": "-William Hanna ve Joseph Barbera tarafından yönetmenliği yapılmış bir çizgi film.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "KARA%ŞÖVALYA",
+      "description": "-Christopher Nolan yönetmenliği yapılmış film.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "ARABA",
+      "description": "-Karl Benz tarafından yapılmış bir icat.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "BALE",
+      "description": "-Bir dans türü.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "HAMLET",
+      "description": "-William Shakespeare tarafından yazılmış bir trajedi oyunu.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TAC MAHAL",
+      "description": "-Dünyanın 7 harikasından birisi.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "KOLEZYUM",
+      "description": "-Dünyanın 7 harikasından birisi.",
+      "kb": "en"
+    },
+
+    {
+      "level": 1,
+      "answer": "ROMEO VE%JULIET",
+      "description": "-William Shakespeare tarafından yazılmış bir trajedi oyunu.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "WIND OF%CHANGE",
+      "description": "-Scorpions rock grubu tarafından seslendirilmiş bir şarkı.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DAVUT",
+      "description": "-Michelangelo tarafından yapılmış bir heykel.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "KÜÇÜK%PRENS",
+      "description": "-Antoine de Saint-Exupéry tarafından yazılmış kısa roman.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "PETRA",
+      "description": "-Dünyanın 7 harikasından birisi.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "HEIDI",
+      "description": "-Johanna Spyri tarafından yazılmış roman ve çizgi film.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "EYFEL KULESİ",
+      "description": "-Stephen Sauvestre tarafından yapılan mimari yapı.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "THRILLER",
+      "description": "-Michael Jacksonın tüm zamanların en çok satılan albümü.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TETRIS",
+      "description": "-Tüm zamanların en eski ve çok satan mobil oyunu.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "AVATAR",
+      "description": "-Yönetmenliğini, senaristliğini, yapımcılığını James Cameron'ın üstlendiği film.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "KAYIP%BALIK NEMO",
+      "description": "-Pixar Animation Studios tarafından üretilen animasyonlu macera filmi.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "FUTBOL",
+      "description": "-Dünyadaki en bilinen spor türü",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DON KİŞOT",
+      "description": "-Miguel de Cervantes tarafından yazılmış bir roman.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "SALSA",
+      "description": "-Bir dans türü.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "ROCK MÜZİK",
+      "description": "-Bir müzik türü.",
+      "kb": "tr"
+    },
+    {
+      "level": 1,
+      "answer": "POP MÜZİK",
+      "description": "-Bir müzik türü.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "ÖZGÜRLÜK%HEYKELİ",
+      "description": "-Amerikada bulunan Frederic Auguste Bartholdi tarafından yapılmış heykel.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "I WILL%ALWAYS%LOVE YOU",
+      "description": "-Whitney Houston seslendirdiği bir şarkı.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "DÜŞÜNEN%ADAM",
+      "description": "-Auguste Rodin tarafından yapılmış bronz heykel.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "ADEMİN%YARATILIŞI",
+      "description": "-Michelangelo tarafından çizilmiş sanat eseri.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "ESARETİN%BEDELİ",
+      "description": "-Frank Darabont tarafından yönetilmiş bir film.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "MUHTEŞEM%GATSBY",
+      "description": "-Francis Scott Fitzgerald tarafından yazılmış roman aynı zamanda filmide vardır.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "CARELESS%WHISPER",
+      "description": "-George Michael seslendirilmiş bir şarkı.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "SON%AKŞAM%YEMEĞİ ",
+      "description": "-Leonardo da Vinci tarafından çizilmiş bir sanat eseri.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "AYA SOFYA",
+      "description": "-İstanbulda bulunan dünyaca ünlü ikonik yapı kilise ve camii olarak kullanılmıştır.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "BÜYÜK%GİZE%SFENKSİ",
+      "description": "-Mısırda bulunan gizemli bir yapı.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "UÇAK",
+      "description": "-Orville and Wilbur Wright tarafından yapılmış bir icat.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "DÖVÜŞ%KULÜBÜ",
+      "description": "-David Fincher tarafından yönetilmiş film.",
+      "kb": "tr"
+    },
+
+    {
+      "level": 2,
+      "answer": "KURTARICI%İSA",
+      "description": "-Paul Landowski tarafından yapılmış bir heykel.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "İNCİ%KÜPELİ KIZ",
+      "description": "-Johannes Vermeer tarafından çizilmiş bir sanat eseri.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "ÇIĞLIK",
+      "description": "-Edvard Munch tarafından çizilmiş bir sanat eseri.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "GUERNICA",
+      "description": "-Pablo Picasso tarafından çizilmiş bir sanat eseri.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "BREAKING BAD",
+      "description": "-Vince Gilligan tarafından yapılmış amerikan televizyon dizisi.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "DAVID%COPPERFIELD",
+      "description": "-Charles Dickens tarafından yazılmış bir roman.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MACHU PICCHU",
+      "description": "-Dünyanın yedi harikasından birisi.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "FLAMENKO",
+      "description": "-Bir dans türü.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MODERN DANS",
+      "description": "-Bir dans türü.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "PIETA",
+      "description": "-Michelangelo tarafından yapılmış bir heykel.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "LOLİTA",
+      "description": "-Vladimir Nabokov tarafından yazılmış roman.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "ON KÜÇÜK%ZENCİ",
+      "description": "-Agatha Christie'nin bilinen bir romanı.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "HOBBİT",
+      "description": "-John R. R. Tolkien tarafından yazılmış fantazi roman,filmide vardır.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "MANNEKEN PIS",
+      "description": "-Hieronymus Duquesnoy Elder tarafından yapılmış heykel.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "İKİ ŞEHRİN%HİKAYESİ",
+      "description": "-Charles Dickens tarafından yazılmış tarihsel roman.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "BİLGİSAYAR",
+      "description": "-John Vincent Atanasoff tarafından yapılmış icat.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "YÜZÜKLERİN%EFENDİSİ",
+      "description": "-John R. R. Tolkien tarafından yazılmış fantastik roman ve film.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "GELECEĞE%DÖNÜŞ",
+      "description": "-Robert Zemeckis tarafından yönetilmiş film.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "COUNTRY%MÜZİK",
+      "description": "-Bir müzik türü.",
+      "kb": "tr"
+    },
+    {
+      "level": 2,
+      "answer": "TRISTRAM%SHANDY",
+      "description": "-Laurence Sterne tarafından yazılmış roman.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "ANNA%KARENINA",
+      "description": "Rus yazar Leo Tolstoy tarafından yazılmış roman.",
+      "kb": "en"
+    },
+
+    {
+      "level": 3,
+      "answer": "MATBAA%MAKİNESİ",
+      "description": "-Johannes Gutenberg tarafından yapılmış bir icat.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "VENÜSÜN%DOĞUŞU",
+      "description": "-Sandro Botticelli tarafından çizilmiş sanat eseri.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "ANOTHER%BRICK%IN THE%WALL",
+      "description": "-Bir Pink Floyd şarkısı.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "GECE%DEVRİYESİ",
+      "description": "-Rembrandt van Rijn tarafından çizilmiş sanat eseri.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "RADYO%VE%TELEVİZYON",
+      "description": "-Guglielmo Marconi ve John Baird tarafından yapılmış icat.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "OZ BÜYÜCÜSÜ",
+      "description": "-Metro-Goldwyn-Mayer tarafından yönetmenliği yapılmış müzikal-fantastik film. ",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "ÇİN%SEDDİ",
+      "description": "- Dünyanın yedi harikasından birisi.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "ÜÇ MAYIS",
+      "description": "-Francisco Goya tarafından çizilmiş yağlı boya tablosu.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "SMELLS LIKE%TEEN%SPIRIT",
+      "description": "-Rock grubu Nirvana tarafından yapılmış şarkı.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "MONTE%KRİSTO%KONTU",
+      "description": "-Alexandre Dumas tarafından yazılmış roman.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "PİSA%KULESİ",
+      "description": "-İtalyada en dikkat çekici mimari yapılardan biri.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "SİDNEY%OPERA%BİNASI",
+      "description": "-20. yüzyılın mimari çalışmaları ve Sidney'deki sahne sanatları merkezi.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "GELENEKSEL%HALK%MÜZİĞİ",
+      "description": "-Bir müzik türü.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "ARJANTİN%TANGOSU",
+      "description": "-Bir dans türü.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "SANATÇININ%BİR GENÇ%ADAM OLARAK%PORTRESİ",
+      "description": "-James Joyce tarafından yazılmış ilk roman.",
+      "kb": "tr"
+    },
+    {
+      "level": 3,
+      "answer": "KARAMAZOV%KARDEŞLER",
+      "description": "-Fyodor Dostoevsky tarafından yazılmış bir roman.",
+      "kb": "tr"
+    }
+  ],
+   "ui": {
+      "play": "OYNA",
+      "levels": "SEVİYELER",
+      "shop": "MAĞAZA",
+      "settings": "AYARLAR",
+
+      "level": "SEVİYE",
+      "letter": "HARF",
+      "eliminate": "HARF ELE",
+      "pass": "PAS",
+
+      "excellent": "HARİKA!",
+      "good": "İYİ!",
+      "bad": "KÖTÜ!",
+
+      "language": "Dil",
+     "code": "Kod Türü",
+      "reset": "Oyunu Sıfırla",
+      "restore": "Satın Almayı Geri Yükle",
+      "rate": "Bizi değerlendirin",
+      "contact": "Bize Ulaşın",
+      "privacy": "Gizlilik Politikası",
+
+      "resetHeader": "Sıfırlamayı Onaylayın",
+      "resetText": "Tüm verileri sıfırlamak istediğinizden emin misiniz?",
+      "yes": "EVET",
+      "no": "HAYIR",
+
+
+      "like": "CryptoArt'ı sevdin mi?",
+      "likeText": "Uygulumamıza 5 yıldız vererek bizi mutlu edebilirsin :)",
+
+      "exit": "Çıkışı onaylayın",
+      "exitText": "Çıkmak istediğinizden emin misiniz?"
+
+
+    }
+}
