@@ -1,0 +1,536 @@
+{
+  "items": [
+    {
+      "level": 1,
+      "answer": "MONA LISA",
+      "description": "-is a half-length portrait painting by Italian artist Leonardo da Vinci.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TELEPHONE",
+      "description": "-is a invention by Alexander Graham Bell.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "ROBINSON%CRUSOE",
+      "description": "-is a novel by Daniel Defoe.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "NOTHING%ELSE MATTERS",
+      "description": "-is a song by American heavy metal band Metallica.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "THE%GODFATHER",
+      "description": "-is a American crime film directed by Francis Ford Coppola.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "THE%STARRY%NIGHT",
+      "description": "- is an oil on canvas painting by Dutch painter Vincent van Gogh.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "GAME OF%THRONES",
+      "description": "-is an American fantasy drama television series created by David Benioff and D. B. Weiss.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "ELECTRIC%LIGHT",
+      "description": "-is a invention by Thomas Edison.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "BEAT IT",
+      "description": "-is a song by American singer Michael Jackson.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TOM AND%JERRY",
+      "description": "- is an American animated series of comedy short films created by William Hanna and Joseph Barbera.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "THE%DARK%KNIGHT",
+      "description": "-is a superhero film directed, produced, and co-written by Christopher Nolan.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "CAR",
+      "description": "-is a invention by Karl Benz.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "BALLET",
+      "description": "-is a type of dance.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "HAMLET",
+      "description": "-is a tragedy written by William Shakespeare.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TAJ MAHAL",
+      "description": "-One of the new seven wonders of the world.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "COLOSSEUM",
+      "description": "-One of the new seven wonders of the world.",
+      "kb": "en"
+    },
+
+    {
+      "level": 1,
+      "answer": "ROMEO AND%JULIET",
+      "description": "-is a tragedy written by William Shakespeare.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "WIND OF%CHANGE",
+      "description": "-is a song by German rock band Scorpions, ",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DAVID",
+      "description": "-is a masterpiece of Renaissance sculpture by the Italian artist Michelangelo.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "THE LITTLE%PRINCE",
+      "description": "-is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "PETRA",
+      "description": "-One of the new seven wonders of the world.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "HEIDI",
+      "description": "-is a work of children's fiction published in 1881 by Swiss author Johanna Spyri.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "EIFFEL%TOWER",
+      "description": "-is a wrought-iron lattice tower on the Champ de Mars in Paris, France.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "THRILLER",
+      "description": "-is the sixth studio album by American singer Michael Jackson.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TETRIS",
+      "description": "-is a tile-matching video game created by Russian software engineer Alexey Pajitnov ",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "AVATAR",
+      "description": "-is a movie directed, written, produced, and co-edited by James Cameron.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "FINDING%NEMO",
+      "description": "-is a animated adventure movie produced by Pixar Animation Studios.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "FOOTBALL",
+      "description": "-The most popular sport.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DON QUIXOTE",
+      "description": "-is a novel written by Miguel de Cervantes.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "SALSA",
+      "description": "-is a type of dance.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "ROCK MUSIC",
+      "description": "-is a type of music.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "POP MUSIC",
+      "description": "-is a type of music.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "STATUE OF%LIBERTY",
+      "description": "-is a colossal neoclassical sculpture on Liberty Island in New York",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "I WILL%ALWAYS%LOVE YOU",
+      "description": "-is a single by Whitney Houston.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "THE THINKER",
+      "description": "-is a bronze sculpture by Auguste Rodin.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "THE CREATION%OF ADAM",
+      "description": "-is a fresco painting by Italian artist Michelangelo.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "THE SHAWSHANK%REDEMPTION",
+      "description": "-is a American drama film written and directed by Frank Darabont.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "THE%GREAT%GATSBY",
+      "description": "is a 1925 novel by American writer F. Scott Fitzgerald.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "CARELESS%WHISPER",
+      "description": "-is a song by George Michael."
+    },
+    {
+      "level": 2,
+      "answer": "THE LAST%SUPPER",
+      "description": "-is a late 15th-century mural painting by Italian artist Leonardo da Vinci",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "HAGIA SOPHIA",
+      "description": "-is a Late Antique place of worship in Istanbul, built in 537.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "THE GREAT%SPHINX",
+      "description": "-is a limestone statue of a reclining sphinx, a mythical creature in Giza, Egypt. ",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "AIRPLANE",
+      "description": "-is a invention by Orville and Wilbur Wright.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "FIGHT%CLUB",
+      "description": "-is a 1999 American film directed by David Fincher.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "CHRIST%THE%REDEEMER",
+      "description": "-is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "GIRL WITH%A PEARL%EARRING",
+      "description": "-is an oil painting by Dutch Golden Age painter Johannes Vermeer.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "THE%SCREAM",
+      "description": "- is the popular name given to a composition created by Norwegian artist Edvard Munch.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "GUERNICA",
+      "description": "-is a large 1937 oil painting on canvas by Spanish artist Pablo Picasso.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "BREAKING BAD",
+      "description": "-is a American television series by Vince Gilligan.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "DAVID%COPPERFIELD",
+      "description": "-is a bildungsroman by Charles Dickens.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MACHU%PICCHU",
+      "description": "-One of the new seven wonders of the world.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "FLAMENCO",
+      "description": "-is a type of dance.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MODERN DANCE",
+      "description": "-is a type of dance.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "PIETA",
+      "description": "- is a work of Renaissance sculpture by Michelangelo Buonarroti.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "LOLITA",
+      "description": "-is a 1955 novel written by Russian-American novelist Vladimir Nabokov.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "AND THEN%THERE WERE%NONE",
+      "description": "-is a mystery novel by the English writer Agatha Christie.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "THE HOBBIT",
+      "description": "-is a children's fantasy novel by English author J. R. R. Tolkien.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MANNEKEN PIS",
+      "description": "-is a bronze fountain sculpture in central Brussels (Belgium)",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "A TALE%OF%TWO CITIES",
+      "description": "-is an 1859 historical novel by Charles Dickens.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "COMPUTER",
+      "description": "-Is a invention by John Vincent Atanasoff.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "THE LORD%OF%THE RINGS",
+      "description": "-is an epic high fantasy novel by the English author J. R. R. Tolkien.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "BACK TO%THE FUTURE",
+      "description": "-is a American science fiction film directed by Robert Zemeckis.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "COUNTRY%MUSIC",
+      "description": "-is a type of music.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "TRISTRAM%SHANDY",
+      "description": "-is a novel by Laurence Sterne.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "ANNA%KARENINA",
+      "description": "is a novel by the Russian author Leo Tolstoy.",
+      "kb": "en"
+    },
+
+    {
+      "level": 3,
+      "answer": "PRINTING%PRESS",
+      "description": "-is a invention by Johannes Gutenberg.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE BIRTH%OF VENUS",
+      "description": "-is a painting by the Italian artist Sandro Botticelli.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "ANOTHER BRICK%IN THE WALL",
+      "description": "-is a song by Pink Floyd",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE NIGHT%WATCH",
+      "description": "-is a 1642 painting by Rembrandt van Rijn.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "RADIO AND%TELEVISION",
+      "description": "-is a invention by Guglielmo Marconi & John Baird.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE WIZARD%OF OZ",
+      "description": "-is a musical-fantasy movie by Metro-Goldwyn-Mayer. ",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "GREAT WALL%OF CHINA",
+      "description": "- One of the seven wonders of the world.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE THIRD%OF MAY",
+      "description": "-is a painting completed in 1814 by the Spanish painter Francisco Goya.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "SMELLS LIKE%TEEN SPIRIT",
+      "description": "- A song by American rock band Nirvana.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE COUNT%OF%MONTE CRISTO",
+      "description": "-is an adventure novel written by author Alexandre Dumas.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE LEANING%TOWER OF%PISA",
+      "description": "-One of the most remarkable architectural structures in the Italian town of Pisa.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "SYDNEY%OPERA HOUSE",
+      "description": "-Architectural work of the 20th century and performing arts centre in Sydney.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "TRADITIONAL%AND%FOLK MUSIC",
+      "description": "-is a type of music.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "ARGENTINE%TANGO",
+      "description": "-is a type of dance.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "A PORTRAIT%OF THE%ARTIST%AS A%YOUNG MAN",
+      "description": "-The first novel of Irish writer James Joyce.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "THE BROTHERS%KARAMAZOV",
+      "description": "-is a novel by Russian author Fyodor Dostoevsky.",
+      "kb": "en"
+    }
+  ],
+  "ui": {
+    "play": "PLAY",
+    "levels": "LEVELS",
+    "shop": "SHOP",
+    "settings": "SETTINGS",
+
+    "level": "LEVEL",
+    "letter": "LETTER",
+    "eliminate": "ELIMINATE",
+    "pass": "PASS",
+
+    "excellent": "EXCELLENT!",
+    "good": "GOOD!",
+    "bad": "BAD!",
+
+    "language": "Language",
+    "code": "Code Type",
+    "reset": "Reset Game",
+    "restore": "Restore Purchases",
+    "rate": "Rate Us",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+
+    "resetHeader": "Confirm Reset Data",
+    "resetText": "Are you sure you want to reset all data?",
+    "yes": "YES",
+    "no": "NO",
+
+
+    "like": "Do you like CryptoArt?",
+    "likeText": "You may want to review our app with 5 stars and make us happy :)",
+
+    "exit": "Confirm Exit",
+    "exitText": "Are you sure you want to exit?"
+
+
+  }
+}
