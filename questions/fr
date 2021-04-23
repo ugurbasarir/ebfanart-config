@@ -1,0 +1,539 @@
+{
+  "items": [
+    {
+      "level": 1,
+      "answer": "LA JOCONDE",
+      "description": "-Est un tableau de l'artiste Léonard de Vinci.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "TELEPHONE",
+      "description": "-Invention d'Alexander Graham Bell.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "ROBINSON%CRUSOE",
+      "description": "-Est un roman d'aventures anglais de Daniel Defoe",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "NOTHING%ELSE%MATTERS",
+      "description": "-Est une chanson du groupe de heavy métal Metallica.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "LE PARRAIN",
+      "description": "-Est un film américain de Francis Ford Coppola.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "LA NUIT%ETOILEE",
+      "description": "-Est une huile sur toile de Vincent van Gogh.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "GAME OF%THRONES",
+      "description": "-Est une série télévisée américaine de Fantasy créée par David Benioff et D. B. Weiss.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "LUMIERE%ELECTRIQUE",
+      "description": "-Invention de Thomas Edison.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "BEAT IT",
+      "description": "-Est une chanson de l'artiste américain Michael Jackson.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "TOM ET%JERRY",
+      "description": "-Est une série de courts-métrages animés américaine.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "LE%CHEVALIER%NOIR",
+      "description": "-Est un film américano-britannique réalisé par Christopher Nolan.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "AUTO",
+      "description": "-Invention de Karl Benz.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "BALLET",
+      "description": "-Un type de danse.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "HAMLET",
+      "description": "-Est la plus longue et l'une des plus célèbres pièces de William Shakespeare.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "TAJ MAHAL",
+      "description": "-L'une des sept nouvelles merveilles du monde.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "COLISEE",
+      "description": "-L'une des sept nouvelles merveilles du monde.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 1,
+      "answer": "ROMEO ET%JULIETTE",
+      "description": "-Est une tragédie de William Shakespeare. ",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "WIND OF%CHANGE",
+      "description": "-Est une chanson du groupe de rock allemand Scorpions.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "DAVID",
+      "description": "-Est un chef-d'œuvre de la sculpture, réalisé par Michel-Ange.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "LE PETIT%PRINCE",
+      "description": "-Est une œuvre de langue française, la plus connue d'Antoine de Saint-Exupéry.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "PETRA",
+      "description": "-L'une des sept nouvelles merveilles du monde.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "HEIDI",
+      "description": "-Est l'appellation des deux romans de la femme de lettres suisse alémanique Johanna Spyri.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "TOUR%EIFFEL",
+      "description": "-Est une tour de fer puddlé de 324 mètres de hauteur située à Paris.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "THRILLER",
+      "description": "-Est le sixième album studio de l'artiste américain Michael Jackson.",
+      "kb": "en"
+    },
+    {
+      "level": 1,
+      "answer": "TETRIS",
+      "description": "-Est un jeu vidéo de puzzle conçu par Alekseï Pajitnov.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "AVATAR",
+      "description": "-Est un film de science-fiction américain réalisé par James Cameron",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "LE%MONDE%DE NEMO",
+      "description": "-Est le cinquième film d'animation en images de synthèse des studios Pixar.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "FOOTBALL",
+      "description": "-Le sport le plus populaire au monde.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "DON%QUICHOTTE",
+      "description": "-Est un roman écrit par Miguel de Cervantes.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "SALSA",
+      "description": "-Un type de danse.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "MUSIQUE%ROCK",
+      "description": "-Un type de musique.",
+      "kb": "fr"
+    },
+    {
+      "level": 1,
+      "answer": "MUSIQUE%POP",
+      "description": "-Un type de musique.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 2,
+      "answer": "STATUE%DE LA%LIBERTE",
+      "description": "-Est l'un des monuments les plus célèbres des États-Unis.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 2,
+      "answer": "I WILL%ALWAYS%LOVE YOU",
+      "description": "-Une chanson de Whitney Houston.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "LE PENSEUR",
+      "description": "-Est l'une des plus célèbres sculptures en bronze d'Auguste Rodin.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LA CREATION%D'ADAM",
+      "description": "-Est l'une des neuf fresques inspirées du livre de la Genèse, peintes par Michel-Ange.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 2,
+      "answer": "LES EVADES",
+      "description": "-Est un film américain écrit et réalisé par Frank Darabont.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 2,
+      "answer": "GATSBY%LE%MAGNIFIQUE",
+      "description": "-Est un roman de l'écrivain américain F. Scott Fitzgerald.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "CARELESS%WHISPER",
+      "description": "-Est la chanson de l'auteur-compositeur-interprète anglais George Michael.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "LA CENE",
+      "description": "-Est un tableau de l'artiste Léonard de Vinci.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "HAGIA SOPHIA",
+      "description": "-Est un grand lieu de culte à Istanbul, situé sur le côté ouest du Bosphore.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "SPHINX%DE GIZEH",
+      "description": "-Est la statue thérianthrope en Égypte. ",
+      "kb": "fr"
+    },
+
+    {
+      "level": 2,
+      "answer": "AVION",
+      "description": "-Invention d'Orville et Wilbur Wright.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 2,
+      "answer": "FIGHT%CLUB",
+      "description": "- Est un film américain de David Fincher.",
+      "kb": "en"
+    },
+
+    {
+      "level": 2,
+      "answer": "STATUE DU%CHRIST%REDEMPTEUR",
+      "description": "-Est une grande statue du Christ dominant la ville de Rio de Janeiro.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LA JEUNE%FILLE A%LA PERLE",
+      "description": "-Est une peinture à l'huile sur toile réalisée par le peintre néerlandais Johannes Vermeer.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LE CRI",
+      "description": "-Est une œuvre expressionniste de l'artiste norvégien Edvard Munch.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "GUERNICA",
+      "description": "-Est une des œuvres les plus célèbres du peintre espagnol Pablo Picasso.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "BREAKING BAD",
+      "description": "-Est une série télévisée américaine créée par Vince Gilligan.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "DAVID%COPPERFIELD",
+      "description": "-Est le huitième roman de Charles Dickens.",
+      "kb": "en"
+    },
+    {
+      "level": 2,
+      "answer": "MACHU%PICCHU",
+      "description": "-L'une des sept nouvelles merveilles du monde.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "FLAMENCO",
+      "description": "-Un type de danse.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "DANSE%MODERNE",
+      "description": "-Un type de danse.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "PIETA",
+      "description": "-Est une statue en marbre de Michel-Ange.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LOLITA",
+      "description": "-Est un roman, écrit en anglais américain, de Vladimir Nabokov.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "DIX%PETITS%NEGRES",
+      "description": "-Est un roman policier d'Agatha Christie.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LE HOBBIT",
+      "description": "- Est un roman de fantasy de l’écrivain britannique J. R. R. Tolkien.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "MANNEKEN PIS",
+      "description": "-Est une fontaine sous la forme d'une statue en bronze.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LE CONTE%DE DEUX%CITES",
+      "description": "-Est un roman de Charles Dickens.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "ORDINATEUR",
+      "description": "-Invention de John Vincent Atanasoff.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "LE%SEIGNEUR%DES ANNEAUX",
+      "description": "-Est un roman en trois volumes de J. R. R. Tolkien ",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "RETOUR%VERS LE%FUTUR",
+      "description": "-Est un film de science-fiction américain réalisé par Robert Zemeckis.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "MUSIQUE%COUNTRY",
+      "description": "-Un type de musique.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "TRISTRAM SHANDY",
+      "description": "-Est un roman de Laurence Sterne.",
+      "kb": "fr"
+    },
+    {
+      "level": 2,
+      "answer": "ANNA%KARENINE",
+      "description": "-Est un roman de Léon Tolstoï.",
+      "kb": "fr"
+    },
+
+    {
+      "level": 3,
+      "answer": "PRESSE%TYPOGRAPHIQUE",
+      "description": "-Invention de Johannes Gutenberg.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "LA%NAISSANCE%DE VENUS",
+      "description": "-Est un tableau majeur de Sandro Botticelli.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "ANOTHER BRICK%IN THE WALL",
+      "description": "-Est un des titres les plus célèbres de Pink Floyd.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "LA RONDE%DE NUIT",
+      "description": "-Est un portrait de groupe réalisé par Rembrandt.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "RADIO AND%TELEVISION",
+      "description": "-Invention de Guglielmo Marconi et John Baird.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "LE MAGICIEN%D OZ",
+      "description": "-Est un roman pour enfants écrit par Lyman Frank Baum. ",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "GRANDE%MURAILLE",
+      "description": "-L'une des sept merveilles du monde.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "TRES%DE MAYO",
+      "description": "-Est un tableau renommé du peintre espagnol Francisco de Goya.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "SMELLS%LIKE TEEN%SPIRIT",
+      "description": "-Est la première chanson de l'album Nevermind, du groupe américain de Nirvana.",
+      "kb": "en"
+    },
+    {
+      "level": 3,
+      "answer": "LE COMTE%DE MONTE%CRISTO",
+      "description": "-Est un roman d’Alexandre Dumas.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "TOUR%DE PISE",
+      "description": "-Est le campanile de la cathédrale Notre-Dame de l’Assomption de Pise, en Italie.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "OPERA%DE SYDNEY",
+      "description": "-Est l'un des plus célèbres bâtiments du 20 siècle et un haut-lieu de représentation des arts notamment lyriques.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "MUSIQUE%TRADITIONNELLE%ET FOLK",
+      "description": "-Un type de musique.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "TANGO",
+      "description": "-Un type de danse.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "PORTRAIT%DE L ARTISTE%EN JEUNE%HOMME",
+      "description": "-Œuvre de James Joyce.",
+      "kb": "fr"
+    },
+    {
+      "level": 3,
+      "answer": "LES FRERES%KARAMAZOV",
+      "description": "-Est le dernier roman de l'écrivain russe Fiodor Dostoïevski.",
+      "kb": "fr"
+    }
+  ],
+
+  "ui": {
+    "play": "JOUER",
+    "levels": "NIVEAUX",
+    "shop": "MAGASIN",
+    "settings": "PARAMÈTRES",
+
+    "level": "NIVEAU",
+    "letter": "LETTRE",
+    "eliminate": "ÉLIMINER",
+    "pass": "PASSE",
+
+    "excellent": "EXCELLENT!",
+    "good": "BIEN!",
+    "bad": "MAL!",
+
+    "language": "Langue",
+    "code": "Type de Code",
+    "reset": "Réinitialiser le jeu",
+    "restore": "Restaurer les achats",
+    "rate": "Évaluez nous",
+    "contact": "Nous contacter",
+    "privacy": "Politique de confidentialité",
+
+    "resetHeader": "Confirmer la réinitialisation des données",
+    "resetText": "Voulez-vous vraiment réinitialiser toutes les données?",
+    "yes": "OUI",
+    "no": "NON",
+
+
+    "like": "Aimez-vous CryptoArt?",
+    "likeText": "Vous voudrez peut-être revoir notre application avec 5 étoiles et nous rendre heureux :)",
+
+    "exit": "Confirmer la sortie",
+    "exitText": "Êtes-vous sûr de vouloir quitter?"
+
+
+  }
+
+}
