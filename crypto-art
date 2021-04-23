@@ -2,5 +2,6 @@
     "letterJokerPrice" : 199,
     "eliminateJokerPrice" : 299,
     "passJokerPrice" : 499,
-    "rewardedCoinCount" : 50
+    "rewardedCoinCount" : 50,
+    "awardCoinCountPerStar" : 25
 }
